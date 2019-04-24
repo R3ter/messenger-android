@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "459894613217",
+    "firebase_url": "https://massage-15f42.firebaseio.com",
+    "project_id": "massage-15f42",
+    "storage_bucket": "massage-15f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459894613217:android:f65b642af6fbdf08",
+        "android_client_info": {
+          "package_name": "school.grinningtrout.app.massage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459894613217-mv3u3pcocsio293vpphqgmh2gdfu76f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "school.grinningtrout.app.massage",
+            "certificate_hash": "d8f7c9452f9fa9f14a60724c4151e4a955cfac5b"
+          }
+        },
+        {
+          "client_id": "459894613217-bdnvvmvn1fqm8sdr8imtidus2jebq3h3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "459894613217-bdnvvmvn1fqm8sdr8imtidus2jebq3h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3GIqrtAVY9J2L2lG4mqp3t7O8baHUTPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459894613217-bdnvvmvn1fqm8sdr8imtidus2jebq3h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
